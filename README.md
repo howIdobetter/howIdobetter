@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there is my daiy study
 
 <!--
 **howIdobetter/howIdobetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
