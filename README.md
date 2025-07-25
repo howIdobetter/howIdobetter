@@ -3,7 +3,7 @@
 
 # 👋 你好，我是王宇豪！
 
-<!-- 初音未来二次元头像（可替换为其他你喜欢的初音未来图片） -->
+<!-- 初音未来二次元头像 -->
 <p align="center">
   <img src="https://i.imgur.com/tEwK6tA.gif" width="160" alt="初音未来"/>
 </p>
