@@ -45,16 +45,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=howIdobetter&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
 </p>
 
-## 🌟 特色项目
 
-<p align="center">
-  <a href="https://github.com/howIdobetter/your-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=howIdobetter&repo=your-project-1&theme=tokyonight&border_color=00FFFF" />
-  </a>
-  <a href="https://github.com/howIdobetter/your-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=howIdobetter&repo=your-project-2&theme=tokyonight&border_color=00FFFF" />
-  </a>
-</p>
 
 ## 🕹️ 访客统计 & 徽章
 
