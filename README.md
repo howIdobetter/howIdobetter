@@ -68,11 +68,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 </p>
 
-<!-- 初音未来结尾动画 -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJxNHV6YWZhajNmM3NuYmE3dzBkOWx4YzI2NXVod2hwbzh6eW5layZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6fJ1BM7R2EBRDnxK/giphy.gif" width="120" alt="Miku Waving"/>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=初音未来赛高！&fontSize=16&fontColor=fff&animation=twinkling" />
 </p>
