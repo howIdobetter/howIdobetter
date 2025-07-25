@@ -3,16 +3,6 @@
 <!-- 顶部动态打字动画 -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&width=500&lines=欢迎来到我的GitHub主页;热爱编程与开源;初音未来赛高!;不断学习和分享)
 
-<!-- 初音未来动画横幅 -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRrMzBmOWE5YmF3ZHV6dTQ0bGZpZXVqeWhpbGN2ZmMzNGYzcGx1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWVzkMBXT0N8RD4yEF/giphy.gif" width="100%" alt="Miku Banner"/>
-</p>
-
-<!-- 初音未来头像 -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Q3MmJkdGp0eGl5cThzaGRicGQ5bTQ1NnpqMDN2ajJ0OWdzdTJhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif" width="200" alt="初音未来"/>
-</p>
-
 ## 🚀 关于我
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39C5BB&width=600&lines=🎀+二次元爱好者;+🎶+初音未来粉丝;+🎯+技术方向：数据科学;+💻+常用技术栈：Python、Java等;+🌱+正在学习：新技术、框架和工具;+✨+兴趣爱好：编程、音乐、开源、初音未来)
