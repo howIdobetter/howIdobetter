@@ -1,4 +1,5 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 你好，我是王宇豪！
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdoMDhpb2QzN2h2d3huc3hsM2pwajVwbWVoN2V2YXZvM295cTlnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bcKmIWkUMCjVm/giphy.gif" width="35px"/> 你好，我是王宇豪！
+
 
 
 <!-- 顶部动态打字动画 -->
