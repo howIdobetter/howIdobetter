@@ -12,13 +12,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%" alt="Divider">
 </p>
 
-## 🎵 初音未来时刻
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ5ZG9mdWZ4eDZyODNsN2VkZjVqN2I3MTdxM2xzdXdvcHE0cW44ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYs8JoaUCDY8QMg/giphy.gif" width="150" alt="Miku Dancing"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmI4MXZxOHFmdGV6YzV3ZWR3NjRwZWo2OXN6bDNtdGNjYzJ6NjZnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lqVVqkqrrYXUOcTd7o/giphy.gif" width="150" alt="Miku Singing"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWU3ZmdwdXE1c29rbzNhczVicnYzNWYzZXg2cnU4eDl6aG9kazFuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKqnN349PBUtGFO/giphy.gif" width="150" alt="Miku Cute"/>
-</p>
 
 ## 🛠️ 技术栈
 
