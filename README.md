@@ -5,14 +5,10 @@
 # 👋 你好，我是王宇豪！
 
 ## 🚀 关于我
-- 🎯 技术方向：前端 / 后端 / 全栈 / 数据科学 / AI / 其他（可自行修改）
-- 💻 常用技术栈：JavaScript、Python、Go、Rust 等
+- 🎯 技术方向：数据科学
+- 💻 常用技术栈：python、java等
 - 🌱 正在学习：新技术、框架和工具
-- ⚡ 兴趣爱好：编程、音乐、运动、开源
-
-## 🛠️ 我的项目
-- [项目1](#) —— 项目描述（请补充）
-- [项目2](#) —— 项目描述（请补充）
+- ⚡ 兴趣爱好：编程、音乐、开源
 
 ## 📊 GitHub 统计
 ![howIdobetter's GitHub stats](https://github-readme-stats.vercel.app/api?username=howIdobetter&show_icons=true&theme=radical&count_private=true)
