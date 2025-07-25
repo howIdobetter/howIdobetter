@@ -1,4 +1,5 @@
-# 👋 你好，我是王宇豪！
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 你好，我是王宇豪！
+
 
 <!-- 顶部动态打字动画 -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&width=500&lines=欢迎来到我的GitHub主页;热爱编程与开源;初音未来赛高!;不断学习和分享)
