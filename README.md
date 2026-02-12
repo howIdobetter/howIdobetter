@@ -22,17 +22,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode,docker,mysql" />
 </p>
 
-## 📊 GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=howIdobetter&show_icons=true&theme=tokyonight&count_private=true&border_color=00FFFF&title_color=00FFFF&icon_color=00FFFF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=howIdobetter&layout=compact&theme=tokyonight&border_color=00FFFF&title_color=00FFFF" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=howIdobetter&theme=tokyonight&border=00FFFF&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" />
-</p>
-
 ## 🕹️ 访客统计 & 徽章
 
 <p align="center">
