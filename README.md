@@ -33,20 +33,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=howIdobetter&theme=tokyonight&border=00FFFF&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" />
 </p>
 
-## 🎮 GitHub 活动图
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=howIdobetter&theme=tokyo-night&bg_color=1a1b27&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true" />
-</p>
-
-## 🏆 GitHub 奖杯
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=howIdobetter&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
-</p>
-
-
-
 ## 🕹️ 访客统计 & 徽章
 
 <p align="center">
