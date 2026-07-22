@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+  <title id="title">王宇豪的 GitHub 个人主页</title>
+  <desc id="desc">青绿色学习信号连接 Systems、AI 和 Data，最终汇入终端提示符。</desc>
+
+  <style>
+    .canvas { fill: #f7fbfa; stroke: #ddf5f1; }
+    .ink { fill: #183b39; }
+    .muted { fill: #617775; }
+    .soft { fill: #ddf5f1; }
+    .soft-stroke { stroke: #c4e9e3; }
+    .accent { fill: #39c5bb; }
+    .accent-stroke { stroke: #39c5bb; }
+    .deep { fill: #167d78; }
+    .display {
+      font-family: \"Avenir Next\", \"Trebuchet MS\", system-ui, sans-serif;
+      font-weight: 700;
+      letter-spacing: 2px;
+    }
+    .body {
+      font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif;
+    }
+    .mono {
+      font-family: \"SFMono-Regular\", Consolas, \"Liberation Mono\", monospace;
+      letter-spacing: 1.2px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .canvas { fill: #102524; stroke: #234946; }
+      .ink { fill: #e8faf7; }
+      .muted { fill: #9bb9b5; }
+      .soft { fill: #183b39; }
+      .soft-stroke { stroke: #315b57; }
+      .deep { fill: #7ee1d8; }
+    }
+  </style>
+
+  <rect class="canvas" x="1" y="1" width="958" height="278" rx="24" />
+
+  <g transform="translate(58 54)">
+    <text class="mono deep" x="0" y="0" font-size="12">HELLO / 你好</text>
+    <text class="display ink" x="0" y="54" font-size="42">WANG YUHAO</text>
+    <text class="body muted" x="1" y="86" font-size="17">王宇豪 · 学习型开发者</text>
+    <rect class="accent" x="0" y="114" width="34" height="3" rx="1.5" />
+    <text class="body ink" x="0" y="151" font-size="16">在系统、AI 与数据之间持续学习</text>
+  </g>
+
+  <g transform="translate(516 48)">
+    <text class="mono muted" x="0" y="0" font-size="11">LEARNING SIGNAL / 039</text>
+
+    <path class="soft-stroke" d="M0 52H380M0 104H380M0 156H380" fill="none" stroke-width="1" stroke-dasharray="3 7" opacity=".72" />
+
+    <path class="accent-stroke" d="M0 118h28l10-18 14 38 17-70 18 96 18-50h32c30 0 34-42 67-42h40c30 0 35 76 69 76h28"
+      fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+
+    <g transform="translate(134 62)">
+      <circle class="soft accent-stroke" cx="0" cy="0" r="8" stroke-width="2" />
+      <text class="mono ink" x="-28" y="-19" font-size="10">SYSTEMS</text>
+    </g>
+    <g transform="translate(239 62)">
+      <circle class="soft accent-stroke" cx="0" cy="0" r="8" stroke-width="2" />
+      <text class="mono ink" x="-7" y="-19" font-size="10">AI</text>
+    </g>
+    <g transform="translate(309 138)">
+      <circle class="soft accent-stroke" cx="0" cy="0" r="8" stroke-width="2" />
+      <text class="mono ink" x="-13" y="30" font-size="10">DATA</text>
+    </g>
+
+    <g transform="translate(338 91)">
+      <rect class="soft accent-stroke" x="0" y="0" width="48" height="48" rx="10" stroke-width="2" />
+      <circle class="accent" cx="10" cy="10" r="2" />
+      <circle class="deep" cx="17" cy="10" r="2" />
+      <text class="mono ink" x="10" y="32" font-size="14">&gt;_</text>
+    </g>
+  </g>
+</svg>

@@ -1,47 +1,27 @@
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdoMDhpb2QzN2h2d3huc3hsM2pwajVwbWVoN2V2YXZvM295cTlnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bcKmIWkUMCjVm/giphy.gif" width="35px"/> 你好，我是王宇豪！
-
-
-
-<!-- 顶部动态打字动画 -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&width=500&lines=欢迎来到我的GitHub主页;热爱编程与开源;初音未来赛高!;不断学习和分享)
-
-## 🚀 关于我
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39C5BB&width=600&lines=🎀+二次元爱好者;+🎶+初音未来粉丝;+🎯+技术方向：数据科学;+💻+常用技术栈：Python、Java等;+🌱+正在学习：新技术、框架和工具;+✨+兴趣爱好：编程、音乐、开源、初音未来)
-
-<!-- 分割线 -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%" alt="Divider">
+  <img src="./assets/profile-hero.svg" width="100%" alt="王宇豪——在系统、人工智能与数据之间持续学习的开发者" />
 </p>
 
+我在系统、AI 与数据之间持续学习，也把过程写成可以回看的笔记和项目。
 
+[阅读我的学习笔记 →](https://howidobetter.github.io)
 
-## 🛠️ 技术栈
+## 关于我
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode,docker,mysql" />
-</p>
+目前专注于打牢计算机基础，理解系统如何运行，也在探索人工智能与数据科学。对我来说，GitHub 不只是成果陈列，更是一份持续更新的学习记录。
 
-## 🕹️ 访客统计 & 徽章
+## 学习地图
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=howIdobetter&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/howIdobetter?color=00FFFF&style=for-the-badge&logo=github&label=FOLLOWERS" />
-  <img src="https://img.shields.io/badge/初音未来-FOREVER-00FFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRkZGRiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE0Ljc0TDEyIDIxTDEwLjkxIDE0Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIi8+Cjwvc3ZnPg==" />
-</p>
+- **Systems** — 从操作系统的内部机制理解计算机：[MIT 6.828](https://github.com/howIdobetter/MIT6.828_self_learning_fall20)
+- **Core CS** — 用数据结构与算法建立解决问题的基本功：[CS61B](https://github.com/howIdobetter/sp21-cs61b)
+- **AI & Data** — 用实验连接模型、数据与实际问题：[AI Methods](https://github.com/howIdobetter/AI-methods)
 
-## 💫 个人格言
+## 常用工具
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=初音未来赛高！&fontSize=16&fontColor=fff&animation=twinkling" />
-</p>
+`Python` · `Java` · `C / C++` · `JavaScript` · `Git` · `Docker` · `MySQL` · `Linux`
 
 ---
 
 <p align="center">
-  <i>🎵 "世界で一番お姫様" - 初音未来 🎵</i>
+  <sub>39 · 初音未来赛高 · Keep learning, keep building.</sub>
 </p>
