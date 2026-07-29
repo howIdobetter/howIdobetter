@@ -1,75 +1,128 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="292" viewBox="0 0 960 292" role="img" aria-labelledby="title desc">
   <title id="title">王宇豪的 GitHub 个人主页</title>
-  <desc id="desc">青绿色学习信号连接 Systems、AI 和 Data，最终汇入终端提示符。</desc>
+  <desc id="desc">以初音未来的青色和数字 39 为暗号，将系统、算法、人工智能与笔记排成四条学习音轨。</desc>
 
   <style>
-    .canvas { fill: #f7fbfa; stroke: #ddf5f1; }
-    .ink { fill: #183b39; }
-    .muted { fill: #617775; }
-    .soft { fill: #ddf5f1; }
-    .soft-stroke { stroke: #c4e9e3; }
+    .canvas { fill: #f3f7f7; stroke: #cbd9d9; }
+    .panel { fill: #e7eeee; }
+    .ink { fill: #142022; }
+    .muted { fill: #647579; }
+    .faint { fill: #d5e0e0; }
     .accent { fill: #39c5bb; }
-    .accent-stroke { stroke: #39c5bb; }
-    .deep { fill: #167d78; }
+    .accent-soft { fill: #8cded7; }
+    .accent-ink { fill: #176e69; }
+    .grid { fill: none; stroke: #b8c9c9; }
+    .cursor { stroke: #39c5bb; }
     .display {
-      font-family: \"Avenir Next\", \"Trebuchet MS\", system-ui, sans-serif;
-      font-weight: 700;
-      letter-spacing: 2px;
+      font-family: "Arial Narrow", "Roboto Condensed", "Avenir Next Condensed", sans-serif;
+      font-weight: 800;
+      letter-spacing: 1.5px;
     }
     .body {
-      font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", sans-serif;
     }
     .mono {
-      font-family: \"SFMono-Regular\", Consolas, \"Liberation Mono\", monospace;
-      letter-spacing: 1.2px;
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+      letter-spacing: 1px;
     }
 
     @media (prefers-color-scheme: dark) {
-      .canvas { fill: #102524; stroke: #234946; }
-      .ink { fill: #e8faf7; }
-      .muted { fill: #9bb9b5; }
-      .soft { fill: #183b39; }
-      .soft-stroke { stroke: #315b57; }
-      .deep { fill: #7ee1d8; }
+      .canvas { fill: #10191b; stroke: #2b3c3e; }
+      .panel { fill: #182426; }
+      .ink { fill: #edf7f6; }
+      .muted { fill: #9bb0b2; }
+      .faint { fill: #304244; }
+      .accent-soft { fill: #277f79; }
+      .accent-ink { fill: #73ddd4; }
+      .grid { stroke: #3a4d4f; }
     }
   </style>
 
-  <rect class="canvas" x="1" y="1" width="958" height="278" rx="24" />
+  <defs>
+    <rect id="step" width="15" height="15" rx="3" />
+  </defs>
 
-  <g transform="translate(58 54)">
-    <text class="mono deep" x="0" y="0" font-size="12">HELLO / 你好</text>
-    <text class="display ink" x="0" y="54" font-size="42">WANG YUHAO</text>
-    <text class="body muted" x="1" y="86" font-size="17">王宇豪 · 学习型开发者</text>
-    <rect class="accent" x="0" y="114" width="34" height="3" rx="1.5" />
-    <text class="body ink" x="0" y="151" font-size="16">在系统、AI 与数据之间持续学习</text>
+  <rect class="canvas" x="1" y="1" width="958" height="290" rx="14" />
+  <path class="accent" d="M1 15A14 14 0 0 1 15 1h5v290h-5a14 14 0 0 1-14-14Z" />
+
+  <g transform="translate(58 50)">
+    <g transform="translate(0 0)">
+      <circle class="accent" cx="5" cy="-4" r="4" />
+      <text class="mono accent-ink" x="18" y="0" font-size="11">HOWIDOBETTER / TRACK 039</text>
+    </g>
+
+    <text class="display ink" x="0" y="66" font-size="45">WANG YUHAO</text>
+    <text class="body muted" x="1" y="99" font-size="16">王宇豪 · 学生开发者</text>
+
+    <g transform="translate(0 132)">
+      <path class="accent" d="M0 0h28v3H0z" />
+      <text class="body ink" x="0" y="32" font-size="16">把课程做成项目，</text>
+      <text class="body ink" x="0" y="59" font-size="16">把卡住的地方写成笔记。</text>
+    </g>
   </g>
 
-  <g transform="translate(516 48)">
-    <text class="mono muted" x="0" y="0" font-size="11">LEARNING SIGNAL / 039</text>
+  <g transform="translate(496 42)">
+    <rect class="panel" x="0" y="0" width="416" height="208" rx="10" />
 
-    <path class="soft-stroke" d="M0 52H380M0 104H380M0 156H380" fill="none" stroke-width="1" stroke-dasharray="3 7" opacity=".72" />
+    <text class="mono muted" x="20" y="27" font-size="10">LEARNING LOOP</text>
+    <text class="mono accent-ink" x="365" y="27" font-size="10">039</text>
+    <path class="grid" d="M20 40H396" />
 
-    <path class="accent-stroke" d="M0 118h28l10-18 14 38 17-70 18 96 18-50h32c30 0 34-42 67-42h40c30 0 35 76 69 76h28"
-      fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
-
-    <g transform="translate(134 62)">
-      <circle class="soft accent-stroke" cx="0" cy="0" r="8" stroke-width="2" />
-      <text class="mono ink" x="-28" y="-19" font-size="10">SYSTEMS</text>
-    </g>
-    <g transform="translate(239 62)">
-      <circle class="soft accent-stroke" cx="0" cy="0" r="8" stroke-width="2" />
-      <text class="mono ink" x="-7" y="-19" font-size="10">AI</text>
-    </g>
-    <g transform="translate(309 138)">
-      <circle class="soft accent-stroke" cx="0" cy="0" r="8" stroke-width="2" />
-      <text class="mono ink" x="-13" y="30" font-size="10">DATA</text>
+    <g class="mono muted" font-size="9">
+      <text x="20" y="68">SYSTEMS</text>
+      <text x="20" y="103">ALGORITHMS</text>
+      <text x="20" y="138">AI</text>
+      <text x="20" y="173">NOTES</text>
     </g>
 
-    <g transform="translate(338 91)">
-      <rect class="soft accent-stroke" x="0" y="0" width="48" height="48" rx="10" stroke-width="2" />
-      <circle class="accent" cx="10" cy="10" r="2" />
-      <circle class="deep" cx="17" cy="10" r="2" />
-      <text class="mono ink" x="10" y="32" font-size="14">&gt;_</text>
+    <g transform="translate(96 54)">
+      <g class="faint">
+        <use href="#step" x="0" /><use href="#step" x="23" /><use href="#step" x="46" />
+        <use href="#step" x="69" /><use href="#step" x="92" /><use href="#step" x="115" />
+        <use href="#step" x="138" /><use href="#step" x="161" /><use href="#step" x="184" />
+        <use href="#step" x="207" /><use href="#step" x="230" /><use href="#step" x="253" />
+        <use href="#step" x="276" />
+
+        <use href="#step" x="0" y="35" /><use href="#step" x="23" y="35" /><use href="#step" x="46" y="35" />
+        <use href="#step" x="69" y="35" /><use href="#step" x="92" y="35" /><use href="#step" x="115" y="35" />
+        <use href="#step" x="138" y="35" /><use href="#step" x="161" y="35" /><use href="#step" x="184" y="35" />
+        <use href="#step" x="207" y="35" /><use href="#step" x="230" y="35" /><use href="#step" x="253" y="35" />
+        <use href="#step" x="276" y="35" />
+
+        <use href="#step" x="0" y="70" /><use href="#step" x="23" y="70" /><use href="#step" x="46" y="70" />
+        <use href="#step" x="69" y="70" /><use href="#step" x="92" y="70" /><use href="#step" x="115" y="70" />
+        <use href="#step" x="138" y="70" /><use href="#step" x="161" y="70" /><use href="#step" x="184" y="70" />
+        <use href="#step" x="207" y="70" /><use href="#step" x="230" y="70" /><use href="#step" x="253" y="70" />
+        <use href="#step" x="276" y="70" />
+
+        <use href="#step" x="0" y="105" /><use href="#step" x="23" y="105" /><use href="#step" x="46" y="105" />
+        <use href="#step" x="69" y="105" /><use href="#step" x="92" y="105" /><use href="#step" x="115" y="105" />
+        <use href="#step" x="138" y="105" /><use href="#step" x="161" y="105" /><use href="#step" x="184" y="105" />
+        <use href="#step" x="207" y="105" /><use href="#step" x="230" y="105" /><use href="#step" x="253" y="105" />
+        <use href="#step" x="276" y="105" />
+      </g>
+
+      <g class="accent">
+        <use href="#step" x="0" /><use href="#step" x="46" /><use href="#step" x="115" />
+        <use href="#step" x="161" /><use href="#step" x="230" />
+
+        <use href="#step" x="23" y="35" /><use href="#step" x="69" y="35" />
+        <use href="#step" x="138" y="35" /><use href="#step" x="207" y="35" /><use href="#step" x="253" y="35" />
+
+        <use href="#step" x="0" y="70" /><use href="#step" x="23" y="70" />
+        <use href="#step" x="92" y="70" /><use href="#step" x="184" y="70" /><use href="#step" x="276" y="70" />
+
+        <use href="#step" x="46" y="105" /><use href="#step" x="115" y="105" />
+        <use href="#step" x="138" y="105" /><use href="#step" x="230" y="105" /><use href="#step" x="253" y="105" />
+      </g>
+
+      <path class="cursor" d="M176 -8V128" stroke-width="1.5" />
+      <path class="accent" d="M171-8h10l-5 6Z" />
+    </g>
+
+    <g transform="translate(20 194)">
+      <path class="accent" d="M0-7 9-2 0 3Z" />
+      <text class="mono muted" x="18" y="0" font-size="9">PLAYING · LEARN / BUILD / WRITE</text>
     </g>
   </g>
 </svg>

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="390" viewBox="0 0 640 390" role="img" aria-labelledby="title desc">
+  <title id="title">王宇豪的 GitHub 个人主页</title>
+  <desc id="desc">移动版个人横幅，以初音未来的青色和数字 39 为暗号，展示四条学习音轨。</desc>
+
+  <style>
+    .canvas { fill: #f3f7f7; stroke: #cbd9d9; }
+    .panel { fill: #e7eeee; }
+    .ink { fill: #142022; }
+    .muted { fill: #647579; }
+    .faint { fill: #d5e0e0; }
+    .accent { fill: #39c5bb; }
+    .accent-ink { fill: #176e69; }
+    .display {
+      font-family: "Arial Narrow", "Roboto Condensed", "Avenir Next Condensed", sans-serif;
+      font-weight: 800;
+      letter-spacing: 1.5px;
+    }
+    .body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", sans-serif;
+    }
+    .mono {
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+      letter-spacing: 1px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .canvas { fill: #10191b; stroke: #2b3c3e; }
+      .panel { fill: #182426; }
+      .ink { fill: #edf7f6; }
+      .muted { fill: #9bb0b2; }
+      .faint { fill: #304244; }
+      .accent-ink { fill: #73ddd4; }
+    }
+  </style>
+
+  <rect class="canvas" x="1" y="1" width="638" height="388" rx="14" />
+  <path class="accent" d="M1 15A14 14 0 0 1 15 1h5v388h-5a14 14 0 0 1-14-14Z" />
+
+  <g transform="translate(48 45)">
+    <circle class="accent" cx="5" cy="-4" r="4" />
+    <text class="mono accent-ink" x="18" y="0" font-size="11">HOWIDOBETTER / TRACK 039</text>
+
+    <text class="display ink" x="0" y="60" font-size="43">WANG YUHAO</text>
+    <text class="body muted" x="1" y="91" font-size="16">王宇豪 · 学生开发者</text>
+
+    <path class="accent" d="M0 120h28v3H0z" />
+    <text class="body ink" x="0" y="151" font-size="17">把课程做成项目，</text>
+    <text class="body ink" x="0" y="179" font-size="17">把卡住的地方写成笔记。</text>
+  </g>
+
+  <g transform="translate(48 246)">
+    <rect class="panel" x="0" y="0" width="544" height="105" rx="9" />
+
+    <text class="mono muted" x="18" y="24" font-size="10">LEARNING LOOP</text>
+    <text class="mono accent-ink" x="497" y="24" font-size="10">039</text>
+
+    <g class="mono muted" font-size="9">
+      <text x="18" y="52">SYSTEMS</text>
+      <text x="145" y="52">ALGORITHMS</text>
+      <text x="293" y="52">AI</text>
+      <text x="405" y="52">NOTES</text>
+    </g>
+
+    <g transform="translate(18 65)">
+      <rect class="faint" x="0" y="0" width="104" height="14" rx="3" />
+      <rect class="accent" x="0" y="0" width="78" height="14" rx="3" />
+
+      <rect class="faint" x="127" y="0" width="125" height="14" rx="3" />
+      <rect class="accent" x="127" y="0" width="73" height="14" rx="3" />
+
+      <rect class="faint" x="275" y="0" width="88" height="14" rx="3" />
+      <rect class="accent" x="275" y="0" width="54" height="14" rx="3" />
+
+      <rect class="faint" x="387" y="0" width="121" height="14" rx="3" />
+      <rect class="accent" x="387" y="0" width="91" height="14" rx="3" />
+    </g>
+
+    <g transform="translate(18 94)">
+      <path class="accent" d="M0-7 9-2 0 3Z" />
+      <text class="mono muted" x="18" y="0" font-size="9">PLAYING · LEARN / BUILD / WRITE</text>
+    </g>
+  </g>
+</svg>
