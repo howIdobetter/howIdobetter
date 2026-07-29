@@ -1,27 +1,27 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="王宇豪——在系统、人工智能与数据之间持续学习的开发者" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile-hero-mobile.svg">
+    <img src="./assets/profile-hero.svg" width="100%" alt="王宇豪的个人主页：一张以 39 为暗号的青色学习音序器" />
+  </picture>
 </p>
 
-我在系统、AI 与数据之间持续学习，也把过程写成可以回看的笔记和项目。
+我是王宇豪，一名学生开发者。最近在补系统基础、做 AI 课程实验，也维护一份自己真的会翻回去看的学习笔记。
 
-[阅读我的学习笔记 →](https://howidobetter.github.io)
+[去博客翻笔记 →](https://howidobetter.github.io)
 
-## 关于我
+## 最近在做
 
-目前专注于打牢计算机基础，理解系统如何运行，也在探索人工智能与数据科学。对我来说，GitHub 不只是成果陈列，更是一份持续更新的学习记录。
+桌面上常开着 MIT 6.828 的实验和一些 C++ 题解。课程里的 AI 方法也在做；遇到值得复盘的问题，我会整理到博客里。
 
-## 学习地图
+## 四个常驻标签页
 
-- **Systems** — 从操作系统的内部机制理解计算机：[MIT 6.828](https://github.com/howIdobetter/MIT6.828_self_learning_fall20)
-- **Core CS** — 用数据结构与算法建立解决问题的基本功：[CS61B](https://github.com/howIdobetter/sp21-cs61b)
-- **AI & Data** — 用实验连接模型、数据与实际问题：[AI Methods](https://github.com/howIdobetter/AI-methods)
-
-## 常用工具
-
-`Python` · `Java` · `C / C++` · `JavaScript` · `Git` · `Docker` · `MySQL` · `Linux`
+- [`notes/`](https://howidobetter.github.io) — 学习笔记和踩坑记录，不追求日更，只留下以后还用得上的东西
+- [`systems/`](https://github.com/howIdobetter/MIT6.828_self_learning_fall20) — MIT 6.828 的自学实验与项目
+- [`algorithms/`](https://github.com/howIdobetter/leetcode) — LeetCode 的 C++ 题解与刷题记录
+- [`ai-methods/`](https://github.com/howIdobetter/AI-methods) — 人工智能方法课程的实验报告
 
 ---
 
 <p align="center">
-  <sub>39 · 初音未来赛高 · Keep learning, keep building.</sub>
+  <sub>39 · 慢慢学，认真写。</sub>
 </p>
