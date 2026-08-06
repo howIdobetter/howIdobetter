@@ -1,10 +1,3 @@
-<p align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./assets/profile-hero-mobile.svg">
-    <img src="./assets/profile-hero.svg" width="100%" alt="王宇豪的个人主页：以 39 为暗号的青色名片" />
-  </picture>
-</p>
-
 <p align="center"><b>王宇豪</b> · 学生开发者</p>
 
 <p align="center">补系统基础，做 AI 课程实验，写一份自己会回看的笔记。</p>
