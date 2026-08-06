@@ -1,83 +1,70 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="390" viewBox="0 0 640 390" role="img" aria-labelledby="title desc">
   <title id="title">王宇豪的 GitHub 个人主页</title>
-  <desc id="desc">移动版个人横幅，以初音未来的青色和数字 39 为暗号，展示四条学习音轨。</desc>
+  <desc id="desc">移动版个人横幅，以初音未来的青色和数字 39 为暗号，列出四个常驻标签页。</desc>
 
   <style>
-    .canvas { fill: #f3f7f7; stroke: #cbd9d9; }
-    .panel { fill: #e7eeee; }
+    .canvas { fill: #f3f7f7; }
+    .card { fill: rgba(255,255,255,.68); stroke: rgba(20,32,34,.07); }
     .ink { fill: #142022; }
-    .muted { fill: #647579; }
-    .faint { fill: #d5e0e0; }
+    .muted { fill: #65787c; }
     .accent { fill: #39c5bb; }
     .accent-ink { fill: #176e69; }
+    .hairline { stroke: rgba(20,32,34,.06); }
     .display {
-      font-family: "Arial Narrow", "Roboto Condensed", "Avenir Next Condensed", sans-serif;
+      font-family: -apple-system, "SF Pro Display", "PingFang SC", "Noto Sans SC", "Helvetica Neue", sans-serif;
       font-weight: 800;
-      letter-spacing: 1.5px;
+      letter-spacing: -2px;
     }
     .body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", sans-serif;
+      font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Noto Sans SC", sans-serif;
+      letter-spacing: .2px;
     }
     .mono {
-      font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
-      letter-spacing: 1px;
+      font-family: "SF Mono", ui-monospace, "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+      letter-spacing: 1.2px;
     }
 
     @media (prefers-color-scheme: dark) {
-      .canvas { fill: #10191b; stroke: #2b3c3e; }
-      .panel { fill: #182426; }
+      .canvas { fill: #0f191b; }
+      .card { fill: rgba(255,255,255,.045); stroke: rgba(237,247,246,.1); }
       .ink { fill: #edf7f6; }
-      .muted { fill: #9bb0b2; }
-      .faint { fill: #304244; }
-      .accent-ink { fill: #73ddd4; }
+      .muted { fill: #9db3b5; }
+      .accent { fill: #3fd0c5; }
+      .accent-ink { fill: #7fe2da; }
+      .hairline { stroke: rgba(237,247,246,.08); }
     }
   </style>
 
-  <rect class="canvas" x="1" y="1" width="638" height="388" rx="14" />
-  <path class="accent" d="M1 15A14 14 0 0 1 15 1h5v388h-5a14 14 0 0 1-14-14Z" />
+  <rect class="canvas" x="1" y="1" width="638" height="388" rx="26" />
 
-  <g transform="translate(48 45)">
-    <circle class="accent" cx="5" cy="-4" r="4" />
-    <text class="mono accent-ink" x="18" y="0" font-size="11">HOWIDOBETTER / TRACK 039</text>
+  <circle class="accent" cx="48" cy="44" r="4" />
+  <text class="mono accent-ink" x="64" y="48" font-size="11">HOWIDOBETTER · 039</text>
 
-    <text class="display ink" x="0" y="60" font-size="43">WANG YUHAO</text>
-    <text class="body muted" x="1" y="91" font-size="16">王宇豪 · 学生开发者</text>
+  <text class="display ink" x="48" y="112" font-size="50">王宇豪</text>
+  <text class="body muted" x="48" y="148" font-size="16">学生开发者 · Student Developer</text>
 
-    <path class="accent" d="M0 120h28v3H0z" />
-    <text class="body ink" x="0" y="151" font-size="17">把课程做成项目，</text>
-    <text class="body ink" x="0" y="179" font-size="17">把卡住的地方写成笔记。</text>
-  </g>
+  <text class="body ink" x="48" y="194" font-size="16">把课程做成项目，</text>
+  <text class="body ink" x="48" y="222" font-size="16">把卡住的地方写成笔记。</text>
 
-  <g transform="translate(48 246)">
-    <rect class="panel" x="0" y="0" width="544" height="105" rx="9" />
+  <rect class="card" x="48" y="244" width="544" height="128" rx="18" />
 
-    <text class="mono muted" x="18" y="24" font-size="10">LEARNING LOOP</text>
-    <text class="mono accent-ink" x="497" y="24" font-size="10">039</text>
+  <text class="mono muted" x="72" y="270" font-size="10">FOUR TABS</text>
+  <text class="mono accent-ink" x="568" y="270" font-size="10" text-anchor="end">039</text>
+  <path class="hairline" d="M72 278H568" />
 
-    <g class="mono muted" font-size="9">
-      <text x="18" y="52">SYSTEMS</text>
-      <text x="145" y="52">ALGORITHMS</text>
-      <text x="293" y="52">AI</text>
-      <text x="405" y="52">NOTES</text>
-    </g>
+  <circle class="accent" cx="58" cy="299" r="3.5" />
+  <text class="mono ink" x="76" y="303" font-size="13">NOTES</text>
+  <text class="body muted" x="196" y="303" font-size="12.5">学习笔记与踩坑记录</text>
 
-    <g transform="translate(18 65)">
-      <rect class="faint" x="0" y="0" width="104" height="14" rx="3" />
-      <rect class="accent" x="0" y="0" width="78" height="14" rx="3" />
+  <circle class="accent" cx="58" cy="323" r="3.5" />
+  <text class="mono ink" x="76" y="327" font-size="13">SYSTEMS</text>
+  <text class="body muted" x="196" y="327" font-size="12.5">MIT 6.828 自学实验</text>
 
-      <rect class="faint" x="127" y="0" width="125" height="14" rx="3" />
-      <rect class="accent" x="127" y="0" width="73" height="14" rx="3" />
+  <circle class="accent" cx="58" cy="347" r="3.5" />
+  <text class="mono ink" x="76" y="351" font-size="13">ALGORITHMS</text>
+  <text class="body muted" x="196" y="351" font-size="12.5">LeetCode C++ 题解</text>
 
-      <rect class="faint" x="275" y="0" width="88" height="14" rx="3" />
-      <rect class="accent" x="275" y="0" width="54" height="14" rx="3" />
-
-      <rect class="faint" x="387" y="0" width="121" height="14" rx="3" />
-      <rect class="accent" x="387" y="0" width="91" height="14" rx="3" />
-    </g>
-
-    <g transform="translate(18 94)">
-      <path class="accent" d="M0-7 9-2 0 3Z" />
-      <text class="mono muted" x="18" y="0" font-size="9">PLAYING · LEARN / BUILD / WRITE</text>
-    </g>
-  </g>
+  <circle class="accent" cx="58" cy="371" r="3.5" />
+  <text class="mono ink" x="76" y="375" font-size="13">AI METHODS</text>
+  <text class="body muted" x="196" y="375" font-size="12.5">人工智能方法实验</text>
 </svg>

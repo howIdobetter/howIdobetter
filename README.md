@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/profile-hero-mobile.svg">
-    <img src="./assets/profile-hero.svg" width="100%" alt="王宇豪的个人主页：一张以 39 为暗号的青色学习音序器" />
+    <img src="./assets/profile-hero.svg" width="100%" alt="王宇豪的个人主页：以 39 为暗号的青色名片" />
   </picture>
 </p>
 
